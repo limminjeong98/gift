@@ -1,7 +1,7 @@
 package com.example.gift.infrastructure.retrofit;
 
 import com.example.gift.infrastructure.gift.order.RetrofitOrderApi;
-import lombok.Value;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
